@@ -1,2 +1,3 @@
-My TOP test: Odin Recipes
-In this test I will relearn all the html basics
+TEST 1: Odin Recipes
+ - Online Course: The Odin Project
+This project goes over some HTML basics
