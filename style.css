@@ -1,0 +1,64 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+p {
+    font-size: 14px;
+    color: grey;
+    text-align: center;
+}
+
+#top-link {
+    color: rgb(45, 47, 194);
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.list {
+    font-size: 20px;
+    text-align: center;
+    list-style-type: none;
+    padding: 0;
+}
+
+.rec-h1 {
+    text-decoration: wavy;
+}
+
+.rec-img {
+    height: 300;
+    width: auto;
+}
+
+h5 {
+    font-size: 16px;
+    font-style: italic;
+    color: gray;
+    text-align: center;
+}
+
+.rec-desc {
+    font-size: 18px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.rec-ing,
+.rec-step {
+    font-size: 18px;
+    color: rgb(61, 61, 61);
+}
+
+.link-home {
+    text-decoration: underline;
+    color: rgb(175, 97, 33);
+}
+
