@@ -26,13 +26,26 @@ h1 {
     padding: 0;
 }
 
+.list-recipes {
+    background-color: aqua;
+    box-sizing: border-box;
+    text-align: center;
+    display: block;
+    padding: 15px 0;
+    width: 300px;
+    height: auto;
+    margin: 20px auto;
+}
+
 .rec-h1 {
     text-decoration: wavy;
 }
 
 .rec-img {
-    height: 300;
+    height: 300px;
     width: auto;
+    display: block;
+    margin: 0 auto;
 }
 
 h5 {
@@ -60,5 +73,8 @@ h3 {
 .link-home {
     text-decoration: underline;
     color: rgb(175, 97, 33);
-}
+    display: block;
+    text-align: center;
+    margin-bottom: 50px;
 
+}
